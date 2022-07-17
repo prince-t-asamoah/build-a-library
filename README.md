@@ -41,7 +41,7 @@ The classes have following properties and methods:
 - **Getters**: all properties have a getter
 - **Methods**: `info()` and all methods from the **Media** class.
 
-## Catalog
+### Catalog
 
 - **Properties**: `allBooks` (array of objects), `allMovies` (array of objects), and `allCDs` (array of objects);
 - **Methods**: `addBooks(book)`, `showBooks()`, `addMovies(movie)`, `showMovies()`, `addCds(cd)` and `showCds()`.
